@@ -1,4 +1,4 @@
-module apolloadapter
+module github.com/gollerxiong/gfapollo
 
 go 1.23.8
 
